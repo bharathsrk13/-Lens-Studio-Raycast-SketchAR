@@ -1,4 +1,8 @@
- public Transform anchor;
+NOT WORKING : HIS LOGIC WAS WASTE
+
+
+
+public Transform anchor;
      public InstructionsController controller;
 
      void Update () {
